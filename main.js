@@ -1,2 +1,2 @@
-const pseudo = prompt("Entrez votre pseudo :");
-alert(`Bonjour, ${pseudo}`);
+let welcome = "Bienvenue, cher inconnu";
+window.alert(welcome);
